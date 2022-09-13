@@ -2,8 +2,6 @@
 #include "main.h"
 
 /**
- * main - Prints
- *
  * print_alphabet - Prints Alphabets
  */
 void print_alphabet(void)
