@@ -2,7 +2,7 @@
 
 /**
  * _abs - Prints
- *
+ * @n - Variable
  * Return: 0
  */
 int _abs(int n)
