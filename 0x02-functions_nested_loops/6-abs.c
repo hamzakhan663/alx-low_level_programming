@@ -2,7 +2,8 @@
 
 /**
  * _abs - Prints
- * @n - Variable
+ * @n: The integer to be computed.
+ *
  * Return: 0
  */
 int _abs(int n)
