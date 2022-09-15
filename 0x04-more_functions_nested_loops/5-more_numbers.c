@@ -2,7 +2,7 @@
 
 /**
  * more_numbers - Prints
-i */
+*/
 void more_numbers(void)
 {
 	int num;
